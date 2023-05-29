@@ -1,0 +1,502 @@
+[
+    {
+        "merke": "Bentley",
+        "modell": "Arnage",
+        "aarsmodell": "1999",
+        "kilometer": "67 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "501 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=304228176"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Golf",
+        "aarsmodell": "2011",
+        "kilometer": "129 822 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "76 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305156059"
+    },
+    {
+        "merke": "Nissan",
+        "modell": "Leaf",
+        "aarsmodell": "2017",
+        "kilometer": "35 500 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "129 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305073422"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Golf Plus",
+        "aarsmodell": "2014",
+        "kilometer": "52 400 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "112 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305159463"
+    },
+    {
+        "merke": "Mercedes-Benz",
+        "modell": "C-Klasse",
+        "aarsmodell": "2017",
+        "kilometer": "60 300 km",
+        "gir": "Automat",
+        "type": "El + Bensin",
+        "pris": "329 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305155428"
+    },
+    {
+        "merke": "BMW",
+        "modell": "iX3",
+        "aarsmodell": "2021",
+        "kilometer": "28 000 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "485 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305164403"
+    },
+    {
+        "merke": "Volvo",
+        "modell": "C70",
+        "aarsmodell": "2003",
+        "kilometer": "161 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "65 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=274725457"
+    },
+    {
+        "merke": "Peugeot",
+        "modell": "307",
+        "aarsmodell": "2007",
+        "kilometer": "170 000 km",
+        "gir": "Manuell",
+        "type": "Bensin",
+        "pris": "39 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305163768"
+    },
+    {
+        "merke": "BMW",
+        "modell": "X1",
+        "aarsmodell": "2010",
+        "kilometer": "163 540 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "111 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305141288"
+    },
+    {
+        "merke": "BMW",
+        "modell": "iX xDrive 50",
+        "aarsmodell": "2022",
+        "kilometer": "21 300 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "996 868 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=297010991"
+    },
+    {
+        "merke": "Audi",
+        "modell": "A4",
+        "aarsmodell": "2002",
+        "kilometer": "260 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "9 877 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305157007"
+    },
+    {
+        "merke": "Mercedes-Benz",
+        "modell": "B-Klasse",
+        "aarsmodell": "2015",
+        "kilometer": "137 627 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "159 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=291912742"
+    },
+    {
+        "merke": "Mercedes-Benz",
+        "modell": "Vito",
+        "aarsmodell": "2007",
+        "kilometer": "202 000 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "95 186 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=297504548"
+    },
+    {
+        "merke": "BMW",
+        "modell": "M5",
+        "aarsmodell": "2019",
+        "kilometer": "59 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "1 149 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=296763750"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Caddy",
+        "aarsmodell": "2005",
+        "kilometer": "179 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "26 800 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305158414"
+    },
+    {
+        "merke": "Saab",
+        "modell": "9000",
+        "aarsmodell": "1996",
+        "kilometer": "300 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "9 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305154904"
+    },
+    {
+        "merke": "Land Rover",
+        "modell": "Discovery",
+        "aarsmodell": "2016",
+        "kilometer": "143 500 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "349 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305162384"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Tiguan",
+        "aarsmodell": "2011",
+        "kilometer": "188 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "109 034 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=251959352"
+    },
+    {
+        "merke": "Porsche",
+        "modell": "911",
+        "aarsmodell": "1966",
+        "kilometer": "123 456 km",
+        "gir": "Manuell",
+        "type": "Bensin",
+        "pris": "400 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305143307"
+    },
+    {
+        "merke": "Hummer",
+        "modell": "H2",
+        "aarsmodell": "2004",
+        "kilometer": "165 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "301 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305152810"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Golf",
+        "aarsmodell": "2020",
+        "kilometer": "74 800 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "169 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305153822"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Golf",
+        "aarsmodell": "2016",
+        "kilometer": "124 575 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "104 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305156072"
+    },
+    {
+        "merke": "Mercedes-Benz",
+        "modell": "C-Klasse",
+        "aarsmodell": "2016",
+        "kilometer": "49 000 km",
+        "gir": "Automat",
+        "type": "El + Bensin",
+        "pris": "229 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=298785474"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Passat",
+        "aarsmodell": "2018",
+        "kilometer": "299 800 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "179 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305162243"
+    },
+    {
+        "merke": "Toyota",
+        "modell": "RAV4",
+        "aarsmodell": "2014",
+        "kilometer": "149 045 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "175 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=273536426"
+    },
+    {
+        "merke": "Kia",
+        "modell": "Soul",
+        "aarsmodell": "2022",
+        "kilometer": "34 000 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "330 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305161877"
+    },
+    {
+        "merke": "Volvo",
+        "modell": "XC 70",
+        "aarsmodell": "2007",
+        "kilometer": "391 000 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "9 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305157083"
+    },
+    {
+        "merke": "Nissan",
+        "modell": "Pathfinder",
+        "aarsmodell": "2005",
+        "kilometer": "276 500 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "66 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305142305"
+    },
+    {
+        "merke": "Peugeot",
+        "modell": "307",
+        "aarsmodell": "2007",
+        "kilometer": "185 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "27 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305153240"
+    },
+    {
+        "merke": "Porsche",
+        "modell": "Taycan",
+        "aarsmodell": "2022",
+        "kilometer": "17 000 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "996 868 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305156818"
+    },
+    {
+        "merke": "Audi",
+        "modell": "A4",
+        "aarsmodell": "2012",
+        "kilometer": "125 500 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "109 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=301672665"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Passat",
+        "aarsmodell": "2013",
+        "kilometer": "254 000 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "59 147 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305156071"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Caddy",
+        "aarsmodell": "2017",
+        "kilometer": "112 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "161 422 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305154544"
+    },
+    {
+        "merke": "BMW",
+        "modell": "X5",
+        "aarsmodell": "2017",
+        "kilometer": "101 600 km",
+        "gir": "Automat",
+        "type": "El + Bensin",
+        "pris": "465 372 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=185543965"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Golf",
+        "aarsmodell": "2018",
+        "kilometer": "86 000 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "165 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305159722"
+    },
+    {
+        "merke": "Chevrolet",
+        "modell": "Corvette",
+        "aarsmodell": "1969",
+        "kilometer": "65 000 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "550 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305159473"
+    },
+    {
+        "merke": "Kia",
+        "modell": "Soul",
+        "aarsmodell": "2018",
+        "kilometer": "58 845 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "152 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=304853464"
+    },
+    {
+        "merke": "Toyota",
+        "modell": "RAV4",
+        "aarsmodell": "2004",
+        "kilometer": "156 800 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "36 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305064269"
+    },
+    {
+        "merke": "Tesla",
+        "modell": "Model X",
+        "aarsmodell": "2019",
+        "kilometer": "94 350 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "549 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305158954"
+    },
+    {
+        "merke": "Toyota",
+        "modell": "Avensis",
+        "aarsmodell": "2006",
+        "kilometer": "235 353 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "31 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305150864"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Transporter",
+        "aarsmodell": "2014",
+        "kilometer": "91 200 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "156 422 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305154807"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "UP!",
+        "aarsmodell": "2015",
+        "kilometer": "96 000 km",
+        "gir": "Automat",
+        "type": "Elektrisitet",
+        "pris": "69 961 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=296018804"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Polo",
+        "aarsmodell": "2010",
+        "kilometer": "193 300 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "41 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305154240"
+    },
+    {
+        "merke": "Chevrolet",
+        "modell": "Camaro",
+        "aarsmodell": "1981",
+        "kilometer": "34 173 km",
+        "gir": "Automat",
+        "type": "Bensin",
+        "pris": "166 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305152575"
+    },
+    {
+        "merke": "Opel",
+        "modell": "Meriva",
+        "aarsmodell": "2010",
+        "kilometer": "216 000 km",
+        "gir": "Manuell",
+        "type": "Bensin",
+        "pris": "29 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305158441"
+    },
+    {
+        "merke": "Volkswagen",
+        "modell": "Polo",
+        "aarsmodell": "2013",
+        "kilometer": "82 000 km",
+        "gir": "Manuell",
+        "type": "Bensin",
+        "pris": "49 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=304651186"
+    },
+    {
+        "merke": "Audi",
+        "modell": "A6",
+        "aarsmodell": "2005",
+        "kilometer": "199 000 km",
+        "gir": "Automat",
+        "type": "Diesel",
+        "pris": "66 777 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=128571682"
+    },
+    {
+        "merke": "Ford",
+        "modell": "Galaxy",
+        "aarsmodell": "2013",
+        "kilometer": "196 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "79 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=294280864"
+    },
+    {
+        "merke": "Volvo",
+        "modell": "XC 90",
+        "aarsmodell": "2016",
+        "kilometer": "127 500 km",
+        "gir": "Automat",
+        "type": "El + Bensin",
+        "pris": "439 000 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305157760"
+    },
+    {
+        "merke": "Mercedes-Benz",
+        "modell": "Sprinter",
+        "aarsmodell": "2000",
+        "kilometer": "216 000 km",
+        "gir": "Manuell",
+        "type": "Diesel",
+        "pris": "51 186 kr",
+        "url": "https://www.finn.no/car/used/ad.html?finnkode=305120863"
+    }
+]
