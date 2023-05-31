@@ -30,7 +30,11 @@ class Bil:
     def return_pris(self):
         return self._pris
 
-    def 
+    def lag_oversikt(self):
+        return f'''
+Merke: {self._merke} | Modell: {self._aarsmodell} | Kilometer: {self._kilometer} | Gir: {self._gir} | Type: {self._type} | Pris: {self._pris}
+Kjøp her: {self._url}
+'''
 
 
 
