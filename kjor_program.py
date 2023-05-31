@@ -7,8 +7,18 @@ fil.close()
 
 biler = []
 
+def lag_int(pris):
+    pris = pris.replace(" ", "")
+    pris = pris.replace("kr", "")
+    return int(pris)
+
 for i in data:
     bil = Bil(i["merke"], i["modell"], i["aarsmodell"], i["kilometer"], i["gir"], i["type"], i["pris"], i["url"])
     biler.append(bil)
 
-print(biler[0].return_merke())
+biler_sortert = sorted(biler, key=lambda bil: lag_int(bil._pris))
+
+for bil in biler_sortert:
+    print(bil._pris)
+
+

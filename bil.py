@@ -30,8 +30,7 @@ class Bil:
     def return_pris(self):
         return self._pris
 
-    def return_url(self):
-        return self._url
+    def 
 
 
 
