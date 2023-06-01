@@ -1,7 +1,7 @@
 import json
 from bil import Bil
 
-fil = open("muntlig_objektorientert/biler.json", encoding = "utf-8")
+fil = open("biler.json", encoding = "utf-8")
 data = json.load(fil)
 fil.close()
 
@@ -17,6 +17,7 @@ ugyldig_min_kilometer = True
 ugyldig_maks_kilometer = True
 ugyldig_gir = True
 ugyldig_type = True
+ikke_ferdig = True
 
 
 def lag_int(pris):
@@ -54,12 +55,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         reserve_liste = biler_sortert[:]
 
 
-        while ugyldig_min_pris:
-            min_pris = input("Hva er din ønsket minimumspris? (ingen/tall)")
+        while ugyldig_min_pris and ikke_ferdig:
+            min_pris = input("Hva er din ønsket minimumspris? (ferdig/ingen/tall)")
             biler_sortert = reserve_liste[:]
 
             if min_pris.lower() == "ingen":
                 ugyldig_min_pris = False
+
+            elif min_pris.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 try:
@@ -82,12 +86,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
             
-        while ugyldig_maks_pris:
-            maks_pris = input("Hva er din ønsket makspris? (ingen/tall)")
+        while ugyldig_maks_pris and ikke_ferdig:
+            maks_pris = input("Hva er din ønsket makspris? (ferdig/ingen/tall)")
             biler_sortert = reserve_liste[:]
 
             if maks_pris.lower() == "ingen":
                 ugyldig_maks_pris = False
+
+            elif maks_pris.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 try:
@@ -110,12 +117,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_merke:
-            onsket_merke = input("Hvilket bilmerke ser du etter? (ingen/BMW/Porsche/Chevrolet/Tesla/Bentley/Volvo/Land Rover/Kia/Mercedes-Benz/Hummer/Volkswagen/Toyota/Nissan/Audi/Ford/Peugeot/Opel/Saab)")
+        while ugyldig_merke and ikke_ferdig:
+            onsket_merke = input("Hvilket bilmerke ser du etter? (ferdig/ingen/BMW/Porsche/Chevrolet/Tesla/Bentley/Volvo/Land Rover/Kia/Mercedes-Benz/Hummer/Volkswagen/Toyota/Nissan/Audi/Ford/Peugeot/Opel/Saab)")
             biler_sortert = reserve_liste[:]
             
             if onsket_merke.lower() == "ingen":
                 ugyldig_merke = False
+
+            elif onsket_merke.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 for bil in biler:
@@ -132,12 +142,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_modell:
-            onsket_modell = input("Hvilken modell ser du etter? (ingen/modell)")
+        while ugyldig_modell and ikke_ferdig:
+            onsket_modell = input("Hvilken modell ser du etter? (ferdig/ingen/modell)")
             biler_sortert = reserve_liste[:]
             
             if onsket_modell.lower() == "ingen":
                 ugyldig_modell = False
+
+            elif onsket_modell.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 for bil in biler:
@@ -154,12 +167,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_aarsmodell:
-            onsket_aarsmodell = input("Hvilken årsmodell ser du etter? (ingen/årstall)")
+        while ugyldig_aarsmodell and ikke_ferdig:
+            onsket_aarsmodell = input("Hvilken årsmodell ser du etter? (ferdig/ingen/årstall)")
             biler_sortert = reserve_liste[:]
             
             if onsket_aarsmodell.lower() == "ingen":
                 ugyldig_aarsmodell = False
+
+            elif onsket_aarsmodell.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 for bil in biler:
@@ -176,12 +192,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_min_kilometer:
-            min_kilometer = input("Hva er din ønsket minimums kjørelengde? (ingen/tall)")
+        while ugyldig_min_kilometer and ikke_ferdig:
+            min_kilometer = input("Hva er din ønsket minimums kjørelengde? (ferdig/ingen/tall)")
             biler_sortert = reserve_liste[:]
 
             if min_kilometer.lower() == "ingen":
                 ugyldig_min_kilometer = False
+
+            elif min_kilometer.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 try:
@@ -204,12 +223,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
             
-        while ugyldig_maks_kilometer:
-            maks_kilometer = input("Hva er din ønsket maks kjørelengde? (ingen/tall)")
+        while ugyldig_maks_kilometer and ikke_ferdig:
+            maks_kilometer = input("Hva er din ønsket maks kjørelengde? (ferdig/ingen/tall)")
             biler_sortert = reserve_liste[:]
 
             if maks_kilometer.lower() == "ingen":
                 ugyldig_maks_kilometer = False
+
+            elif maks_kilometer.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 try:
@@ -232,12 +254,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_gir:
-            onsket_gir = input("Hvilket gir ser du etter? (ingen/automat/manuell)")
+        while ugyldig_gir and ikke_ferdig:
+            onsket_gir = input("Hvilket gir ser du etter? (ferdig/ingen/automat/manuell)")
             biler_sortert = reserve_liste[:]
             
             if onsket_gir.lower() == "ingen":
                 ugyldig_gir = False
+
+            elif onsket_gir.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 for bil in biler:
@@ -254,12 +279,15 @@ Den er grei, her er alle bilene på markedet, sortert etter pris: ''')
         biler = biler_sortert[:]
 
 
-        while ugyldig_type:
-            onsket_type = input("Hvilken type bil ser du etter? (ingen/diesel/bensin/elektrisk/el + bensin)")
+        while ugyldig_type and ikke_ferdig:
+            onsket_type = input("Hvilken type bil ser du etter? (ferdig/ingen/diesel/bensin/elektrisk/el + bensin)")
             biler_sortert = reserve_liste[:]
             
             if onsket_type.lower() == "ingen":
                 ugyldig_type = False
+
+            elif onsket_type.lower() == "ferdig":
+                ikke_ferdig = False
 
             else:
                 for bil in biler:
